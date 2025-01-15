@@ -50,9 +50,7 @@ For shortcuts to use in the Finder once the Mac is booted, check out the Finder 
 | Key combinations | Describtion                                                                      |
 |--------------------------------------------|--------------------------------------------------------|
 | cmd-opt while opening Memory control panel | Turn off RAM tests (Mac OS 8.5 - 9.x only).            |
-| cmd-power key                              | Generate non-maskable interrupt, which will drop you   |
-|                                            | into the built-in debugger or Macsbug (if installed).  |
-|                                            | Type 'g' and press return to continue.                 |
+| cmd-power key                              | Generate non-maskable interrupt, which will drop you into the built-in debugger or Macsbug (if installed). Type 'g' and press return to continue. |
 | cmd-opt while opening Chooser              | rebuild Chooser's cache.                               |
 |--------------------------------------------|--------------------------------------------------------|
 
