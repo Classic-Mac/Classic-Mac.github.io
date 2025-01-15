@@ -10,7 +10,7 @@ Macintosh Startup Key Combinations
 
 A Mac does several checks when it is first powered on. One of the first things it does is scan the keyboard bus (ADB) for any signals. Certain keys will cause various actions to be taken. Note: command (cmd) is the same as the Apple key, option (opt) is the same as the alt key.
 
-### The following should be held down when the computer is first powered up to take effect:
+### When the computer is first powered up:
 
 | Key combinations        | Describtion                                                               |
 |-------------------------|---------------------------------------------------------------------------|
@@ -24,7 +24,7 @@ A Mac does several checks when it is first powered on. One of the first things i
 | hold mouse button       | Eject bootable floppy and boot from the SCSI bus.                         |
 |-------------------------|---------------------------------------------------------------------------|
 
-### The following should be held down just before the happy Mac first appears to take effect:
+### Before the happy Mac first appears:
 
 | Key combinations | Describtion                                                                      |
 |------------------|----------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ A Mac does several checks when it is first powered on. One of the first things i
 | others           | Check documentation for third-party extensions and control panels.               |
 |------------------|----------------------------------------------------------------------------------|
 
-### The following should be held down immediately after the "icon parade" finishes to take effect:
+### Immediately after the "icon parade" finishes:
 
 | Key combinations | Describtion                                                                      |
 |------------------|----------------------------------------------------------------------------------|
@@ -45,7 +45,7 @@ A Mac does several checks when it is first powered on. One of the first things i
 
 For shortcuts to use in the Finder once the Mac is booted, check out the Finder Shortcuts file in the Help menu.
 
-### The following are some other useful shortcuts/undocumented combos:
+### Other useful shortcuts/undocumented:
 
 | Key combinations | Describtion                                                                      |
 |--------------------------------------------|--------------------------------------------------------|
