@@ -55,7 +55,6 @@ If I had a dollar for every time this came up in some form or another on the Vin
 There are four main types of Ethernet common in the Mac world. BaseT is based on a telephone-jack-like connector called an RJ-45 connector. The cabling is either Category 3 or Category 5. There are three subtypes of BaseT - 10BaseT, which operates at 10Mbps and can use either Cat 3 or Cat 5 (and is by far the most common type in the vintage Mac world); 100BaseTX, also known as Fast Ethernet, which operates at 100Mbps and requires Cat 5; and 1000BaseTZ, which is also known as Gigabit Ethernet and is unavailable in Nubus form (and thus isn't really applicable here). All forms of BaseT Ethernet networks require hubs of some sort. Hub-based networks such as these are known as star networks. For what it's worth, Farallon made a few 10/100BaseT Nubus cards but they're prohibitively expensive and can't fully utilise the bandwidth of 100BaseT Ethernet due to the slow bus speeds and OS limitations of older Macs.
 
 http://www.atpm.com/network/index.html  Three Macs and a Printer
-http://www.mac512.com/appletal.htm  AppleTalk-ing
 
 Base2 is a coaxial cable-based network. The cables look like really thin cable TV cables, which give rise to the common name "Thinnet." Base2 Ethernet operates only at 10Mbps and does not require hubs. Macs with 10Base2 Ethernet cards can be daisy-chained together with T-connectors and terminators on each end of the network. 10Base2 networks are limited to 30 devices and 189 metres of cable, whereas BaseT can be used with any number of devices and, with repeaters, can be used with virtually no limits on cable length.
 
@@ -90,4 +89,4 @@ Now for a very brief explanation of this. LocalTalk Bridge will only route Apple
 
 ### What printers would be good for my 68K Mac?
 
-I firmly recommend any of the Apple-branded LaserWriters for any purpose but colour printing. Even printers as old as the LaserWriter and LaserWriter Plus are still quite viable printers, if a tad slow these days. If you absolutely need colour printing, you might want to check out an older HP DeskJet or a used Colour StyleWriter. For further information, Low End Mac's Chris Lawson also has a Mac Daniel article (awaiting other hosting) on choosing a good printer.
+I firmly recommend any of the Apple-branded LaserWriters for any purpose but colour printing. Even printers as old as the LaserWriter and LaserWriter Plus are still quite viable printers, if a tad slow these days. If you absolutely need colour printing, you might want to check out an older HP DeskJet or a used Colour StyleWriter.

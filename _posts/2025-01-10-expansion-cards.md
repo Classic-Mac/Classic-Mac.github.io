@@ -6,12 +6,12 @@ category: Jekyll
 layout: post
 ---
 
-### What is the difference between LC and LC III PDS slots?
+### The difference between LC and LC III PDS slots?
 
 The LC PDS slot is shorter than the LC III PDS slot. The LC III PDS has a few extra pins in it which make the LC III PDS slot a 32-bit slot (whereas the LC PDS is a 16-bit slot). Most LC PDS cards will work just fine in an LC III PDS, but the few cards which do take advantage of the extra bus width of the LC III PDS slot will NOT work in an LC or LC II. Similarly, a very few cards developed for the LC PDS will not work in the LC III PDS slot.
 
 
-### What kind of expansion or upgrade slots does my Mac have?
+### Mac expansion or upgrade slots
 
 The Mac 128, 512K and Ke, and Plus have no expansion capabilities. Dove Enhancements, which is now defunct, made upgrades for the original Macintosh and the 512K and Ke which added various features such as RAM Disks, SCSI, and more RAM for the system. Dove upgrades are highly valued as collector's items now, along with the original Macintosh.
 
@@ -28,19 +28,8 @@ The II series machines with the exception of the IIsi have 3 or 6 Nubus expansio
 Any 68K Mac with "LC" in the model name has either an LC (original LC and LC II) or LC III (LC III and later) PDS slot. See above for the differences.
 
 
-### I want USB on my Nubus Mac!
+### Daystar upgrades for Mac
 
-Tough cookies. And no, no one is currently developing a card. If you want to use USB with a 68K Mac (or even an early Power Mac), you're SOL. The only way to use USB devices with a 68K Mac is to network it to a PCI-based Power Mac, put a USB card in the Power Mac, and use something like USB Printer Share to make a USB printer available on the network. This still won't help with keyboards, mice, joysticks, or the like, and I haven't heard of any way to do it with scanners either.
-
-
-### Where can I get drivers for my expansion/upgrade card?
-
-The Mac Driver Museum has drivers for nearly every expansion and upgrade card made for 68K Macs. Glenn Anderson, a New Zealand-based developer, has written several of his own drivers for not-so-common Ethernet cards where drivers were previously unavailable or unreliable.
-
-
-### What sort of Daystar upgrades are available for my Mac?
-
-http://www.macdrivermuseum.com/  Mac Driver Museum
 http://www.mactcp.org.nz/ mactcp.org.nz several of his own drivers
 
 The PowerCache was an '030-based upgrade containing 32K onboard L2 cache and with an optional (usually included) FPU at the same speed as the CPU, with speeds ranging from 25 to 50MHz. They were designed for the cache slot in the IIci and work in the IIci, IIvx, IIvi, and Performa 600 without an adaptor. Mac II, IIx, IIcx, IIsi, SE/30, and LC machines require adaptors to use the PowerCache line. Generally seen as a IIci, IIvx, SE/30, or IIsi upgrade though the occasional Mac II or LC-series machine has been upgraded too.
@@ -55,10 +44,3 @@ The PowerCard was a PowerPC 601-based upgrade for certain 68040 Macs that plugge
 
 The PowerPro was a PowerPC 601-based upgrade for 68040 Macs with a PDS connector. Adaptors are required for LC series (except the LC-style 040-based Macs, which can't accommodate a PowerPro) and "pizza box" Macs like the C/Q 610 and 660AV. Came in 66, 80, and 100MHz versions and most commonly seen in Q9x0 and "Wombat"-based machines (Q800, C/Q 650). The 66 and 80MHz versions generally have RAM expansion onboard and because of this, will not fit in the C/Q 610 or 660AV.
 
-
-### Where can I get information about DOS/PC compatibility cards for my Mac?
-
-The PC Compatibility Card FAQ should answer most of the questions.
-
-
-http://homepage.mac.com/olivers/DOScard/DOScard.html  PC Compatibility Card FAQ
