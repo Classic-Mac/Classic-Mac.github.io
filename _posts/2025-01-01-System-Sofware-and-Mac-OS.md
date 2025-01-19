@@ -2,7 +2,6 @@
 title: System Software and Mac OS
 Author: Morten Harding
 date: 2025-01-01
-category: Jekyll
 layout: post
 ---
 
