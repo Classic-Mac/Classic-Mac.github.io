@@ -2,7 +2,6 @@
 layout: home
 title: Classic Macintosh
 permalink: /
-cover: /assets/Mac_picaso_logo.jpg
 ---
 
 Using Classic Macintosh OS today
