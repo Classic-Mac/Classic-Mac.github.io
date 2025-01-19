@@ -13,8 +13,11 @@ In order to get any Mac online for at least e-mail access, you'll need at least 
 
 Now that you have the necessary connection software installed, you need an e-mail client. Eudora 1.3.1 is probably the best e-mail client for System 6 Macs. If you're running System 7 or higher, you can use Eudora 1.5.5.
 
-- [Download Eudora 1.3.1](ftp://ftp.qualcomm.com/eudora/eudoralight/mac/english/1.3system6/eudora131.hqx)
-- [Download Eudora 1.5.5](http://www.rtis.com/nat/user/toolbox/oldmacs/Eudora_155.sit.hqx)
+- [Download Eudora 1.x](https://macintoshgarden.org/apps/eudora-1)
+
+The better e-mail client is Mulberry, also available from MacintoshGarden
+
+- [Mulberry](https://macintoshgarden.org/apps/mulberry)
 
 ### Browsers
 
