@@ -8,7 +8,7 @@ layout: post
 
 ### Can the Apple 8*24GC acceleration be enabled under Mac OS 7.6 and later?
 
-Surprisingly enough, yes. Though Apple doesn't support it, Leon Sargent discovered that the ATI Graphics Accelerator extension will allow the 8*24GC to work fully under Mac OS 7.6 and later if the Mac has been upgraded with a PowerPC accelerator. The ATI extension is written in PPC-native code and does nothing on pure 68K Macs.
+Yes. Though Apple doesn't support it. The ATI Graphics Accelerator extension will allow the 8*24GC to work fully under Mac OS 7.6 and later if the Mac has been upgraded with a PowerPC accelerator. The ATI extension is written in PPC-native code and does nothing on pure 68K Macs.
 
 
 ### How can I fix my Compact Mac's video problem?

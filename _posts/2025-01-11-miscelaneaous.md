@@ -13,8 +13,6 @@ All the Compacts have Torx screws in them unless the original screws have been r
 
 Don't forget, if you're taking apart a Plus or earlier, to remove the fifth screw INSIDE the battery cover!
 
-A good method to follow is to set the Mac on a carpet or thick towel or pillow with the monitor down. Unscrew all the screws and lift up on the case back. If it doesn't come off right away, try using your thumbs to push down on the SCSI and floppy connectors while gripping the sides of the case with your fingers. If this still fails to yield results, set the Mac on the floor and take off your shoes (or don't, if you're wearing clean shoes). Hook your big toes (or the edges of the shoe soles) on the top front corners of the case, in the groove between the faceplate and the case back. Now try the thumb trick, while pulling up hard on the case. If this still doesn't do it, get a wooden popsicle stick (or a spring clamp, if you have one) and work on gently prying the two halves of the case apart a little bit at a time.
-
 
 ### Where can I get instructions for repairing my Mac?
 
@@ -40,37 +38,7 @@ That's for a security device. Several third-party manufacturers made a small met
 
 ### How can I solder or repair components on my Mac's board?
 
-The solder you use should be made specifically for electrical component repair, with a low melting temperature. Again, this avoids damage to the board and makes repairs easier. Avoid acid-core solders as the acid can cause damage as well. Most solder you'll want to use won't need to be any thicker than a pencil lead. For very small and delicate work, you'll want even finer solder, the thickness of a fine wire. Martin Perras has this to say about soldering (edited and commented slightly for clarity):
-
-> 
-> If you want to practice first, that's a great idea. Here are the basics:
-> 
-> Always make a good mechanical connection: twist or crimp wires together or
-> to their contact(s) before soldering them. [Apply a bit of flux on the
-> connection if at all possible, as it will make things infinitely easier.]
-> 
-> Tin the tip of the soldering iron first with solder by coating it with
-> solder so it's shiny silver, not raw copper. I personally like to file one
-> side of my standard conical-point flat so it looks a little like a chisel,
-> so I can hold the flat side of the tip against the contact. The more
-> contact area, the faster the contacts/wire will heat, which is also
-> important.
-> 
-> Hold the iron against the wires/contacts lightly but firmly, and after a
-> second or two, apply the end of the solder wire to the opposite side of
-> the contact/wire. The solder should melt at once, and flow into (not over)
-> the contact area, evenly coating the wires and contact area. Keep pushing
-> the solder wire gently until the connection is coated with solder, then
-> remove the iron and solder. This entire process should take no more than a
-> few seconds. It's important not to heat the components for any longer than
-> you must, as heat can damage components.
-> 
-> Finally, do not move/jiggle or disturb the solder joint for a few seconds.
-> This is the cause of most solder joint failures or poor electronic
-> connections. Moving the connection while the solder is setting will make a
-> "cold" solder joint, which is often evident by its dull appearance. Good
-> solder joints are bright and shiny.
-
+The solder you use should be made specifically for electrical component repair, with a low melting temperature. Again, this avoids damage to the board and makes repairs easier. Avoid acid-core solders as the acid can cause damage as well. Most solder you'll want to use won't need to be any thicker than a pencil lead. For very small and delicate work, you'll want even finer solder, the thickness of a fine wire. 
 
 ### There's some kind of gunk on my Mac. How can I get it off?
 

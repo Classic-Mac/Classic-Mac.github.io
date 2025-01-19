@@ -8,7 +8,7 @@ layout: post
 
 ### Can I use a Zip drive with System 6 and/or as a boot disk?
 
-The short answer is "Yes." The longer, more in-depth, useful answer is "Yes, provided that you get the right driver and don't use the disk with later versions of the driver on different Macs." JAG says:
+The short answer is "Yes." The longer, more in-depth, useful answer is "Yes, provided that you get the right driver and don't use the disk with later versions of the driver on different Macs.
 
 > 
 > As far as booting off a Zip, you need driver 4.2. Be sure and use a Zip
@@ -17,16 +17,12 @@ The short answer is "Yes." The longer, more in-depth, useful answer is "Yes, pro
 > reformat it under Zip Tools 4.2 or earlier if you want it to be your boot
 > Zip disk.
 
-The Zip on a Plus page (dead as of May '02) is also an excellent resource for getting a Plus to work with Zip drives.
-
 
 ### Can I use HD floppies in an 800K drive?
 
 While it's physically possible to do it, those of us with a great deal of experience with Macs almost universally recommend against it. If you absolutely need an 800K disk and only have 1.4MB floppies available, you can force a 1.4MB disk to be an 800K disk by taping over both sides of the hole opposite the write-protect tab. THIS IS ONLY A TEMPORARY SOLUTION. THE DATA ON DISKS FORMATTED LIKE THIS WILL NOT USUALLY SURVIVE FOR LONG. UNDER NO CIRCUMSTANCES SHOULD YOU USE FLOPPIES FORMATTED LIKE THIS FOR STORING DATA LONGER THAN A FEW WEEKS. Don't say I didn't warn you...
 
 Tom Lee of Stanford has graciously provided the following explanation:
-
-http://www.action.com  Action
 
 > 
 > To clear up the persistent confusion and superstition about 800K vs.
