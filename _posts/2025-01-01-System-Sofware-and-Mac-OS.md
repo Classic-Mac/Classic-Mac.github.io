@@ -46,7 +46,7 @@ Those "disk images" require you to use Disk Copy 4.2 or Disk Copy 6.3.3 (both av
 
 - [Utilities available from Apple](http://ftpmirror.your.org/pub/misc/apple/Apple_Software_Updates/English-North_American/Macintosh/Utilities/)
 
-### What extras to add to System 7.1 to make it more like 7.5?
+### What extras to add to System 7.1
 
 First, install System 7.1 Update 3. Once you've done, you want to get the CFM-68K Runtime Enabler 4.0, ObjectSupportLib 1.2 (included with CFM-68K download), Drag Manager 1.1, and Thread Manager. Make sure you install Finder 7.1.3 as well. It's in the Thread Manager package, inside the Finder 7.1.3 folder.
 
