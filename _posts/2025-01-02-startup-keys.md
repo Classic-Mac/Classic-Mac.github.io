@@ -2,7 +2,6 @@
 title: Startup keys
 Author: Morten Harding
 date: 2025-01-02
-category: Jekyll
 layout: post
 ---
 

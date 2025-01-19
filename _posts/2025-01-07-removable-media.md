@@ -2,7 +2,6 @@
 title: Removable media
 Author: Morten Harding
 date: 2025-01-07
-category: Jekyll
 layout: post
 ---
 

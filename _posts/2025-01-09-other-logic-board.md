@@ -2,7 +2,6 @@
 title: Other logic board
 Author: Morten Harding
 date: 2025-01-09
-category: Jekyll
 layout: post
 ---
 

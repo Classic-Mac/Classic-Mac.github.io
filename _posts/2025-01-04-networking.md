@@ -2,7 +2,6 @@
 title: Networking
 Author: Morten Harding
 date: 2025-01-04
-category: Jekyll
 layout: post
 ---
 

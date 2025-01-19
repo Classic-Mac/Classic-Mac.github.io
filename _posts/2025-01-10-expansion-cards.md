@@ -2,7 +2,6 @@
 title: Expansion cards
 Author: Morten Harding
 date: 2025-01-10
-category: Jekyll
 layout: post
 ---
 

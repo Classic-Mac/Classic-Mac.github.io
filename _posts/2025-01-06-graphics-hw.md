@@ -2,7 +2,6 @@
 title: Graphics hw
 Author: Morten Harding
 date: 2025-01-06
-category: Jekyll
 layout: post
 ---
 

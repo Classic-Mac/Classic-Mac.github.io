@@ -2,7 +2,6 @@
 title: Internet Software
 Author: MORTEN HARDING
 date: 2025-01-03
-category: Jekyll
 layout: post
 ---
 

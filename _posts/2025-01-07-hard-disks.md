@@ -2,7 +2,6 @@
 title: Hard-disks
 Author: Morten Harding
 date: 2025-01-07
-category: Jekyll
 layout: post
 ---
 

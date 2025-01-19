@@ -2,7 +2,6 @@
 title: Miscellaneous
 Author: Morten Harding
 date: 2025-01-11
-category: Jekyll
 layout: post
 ---
 
